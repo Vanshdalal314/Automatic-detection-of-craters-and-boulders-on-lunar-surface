@@ -13,24 +13,6 @@ This project utilizes advanced computer vision techniques to automatically detec
 
 ---
 
-## 📂 **Repository Structure**  
-```plaintext  
-├── data/  
-│   ├── annotations/      # COCO-format and NDJSON files  
-│   ├── images/           # Raw and processed lunar images  
-├── models/  
-│   ├── mask_rcnn/        # Pretrained and fine-tuned model weights  
-├── notebooks/  
-│   ├── data_preparation.ipynb  # Data preprocessing and annotation conversion  
-│   ├── training.ipynb          # Model training and evaluation  
-│   ├── inference.ipynb         # Running predictions on new images  
-├── results/  
-│   ├── predictions/      # Visualized predictions and segmented masks  
-├── requirements.txt      # Python dependencies  
-├── README.md             # Project documentation  
-└── LICENSE               # License information  
-```  
-
 ---
 
 ## 🔬 **How It Works**  
@@ -93,7 +75,7 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 ## 🌌 **Contact**  
 For questions or collaborations:  
-📧 **Email:** vanshdalal@example.com  
+📧 **Email:** dalalvanshb@gmail.com  
 🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
 
 ---

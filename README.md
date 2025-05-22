@@ -1,7 +1,7 @@
 # 🌕 Automatic Detection of Craters and Boulders on the Lunar Surface  
 
 ### 🚀 **Overview**  
-This project utilizes advanced computer vision techniques to automatically detect and segment craters and boulders on the lunar surface. By leveraging a **Mask R-CNN model**, the system performs precise instance segmentation, aiding lunar exploration and research.  
+This project utilizes advanced computer vision techniques to automatically detect and segment craters and boulders on the lunar surface. By leveraging a **Mask R-CNN model** and **YOLO v11**, the system performs precise instance segmentation, aiding lunar exploration and research.  
 
 ---
 
@@ -9,7 +9,7 @@ This project utilizes advanced computer vision techniques to automatically detec
 - **Crater and Boulder Detection:** Identifies and segments craters and boulders with high accuracy.  
 - **Instance Segmentation:** Generates masks directly over the original images.  
 - **Custom Annotations:** Uses labeled datasets tailored for lunar surface analysis.  
-- **Scalable Model:** Fine-tuned **Mask R-CNN** (COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x) for lunar-specific data.  
+- **Scalable Model:** Fine-tuned **Mask R-CNN** (COCO-InstanceSegmentation/mask_rcnn_R_50_FPN_3x) and **YOLO v11** for lunar-specific data.  
 
 ---
 
@@ -20,7 +20,7 @@ This project utilizes advanced computer vision techniques to automatically detec
    - Images labeled using **Labelbox** and exported in COCO format.  
 
 2. **Model Training:**  
-   - Fine-tuned a pre-trained **Mask R-CNN** model using annotated datasets.  
+   - Fine-tuned a pre-trained **Mask R-CNN** modeland **YOLO v11** model using annotated datasets.  
    - Configured for two specific classes: **Crater** and **Boulder**.  
 
 3. **Instance Segmentation:**  

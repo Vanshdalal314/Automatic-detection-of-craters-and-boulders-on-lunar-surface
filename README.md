@@ -55,9 +55,7 @@ pip install -r requirements.txt
    Achieved high detection accuracy for craters and boulders with fine-tuned Mask R-CNN.  
 
 - **Visualization:**  
-   Predictions are overlaid on original images for clear interpretation.  
-   Example:  
-   ![Sample Output](results/predictions/sample_output.png)  
+   Predictions are overlaid on original images for clear interpretation.   
 
 ---
 
@@ -67,6 +65,8 @@ pip install -r requirements.txt
 - Integrate the solution into larger planetary exploration systems.  
 
 ---
+## Check it out now !
+[Here](https://automatic-detection-of-crater-boulder-on.onrender.com/)
 
 ## 🤝 **Contributing**  
 Contributions are welcome! Please fork the repository, make your changes, and submit a pull request.  

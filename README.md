@@ -76,7 +76,6 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 ## 🌌 **Contact**  
 For questions or collaborations:  
 📧 **Email:** dalalvanshb@gmail.com  
-🔗 **LinkedIn:** [Your LinkedIn Profile](#)  
 
 ---
 
